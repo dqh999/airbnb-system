@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/api-gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/booking-service" />
+    <file type="web" url="file://$PROJECT_DIR$/discover-server" />
+    <file type="web" url="file://$PROJECT_DIR$/global-error-handler" />
+    <file type="web" url="file://$PROJECT_DIR$/listing-service" />
+    <file type="web" url="file://$PROJECT_DIR$/notification-service" />
+    <file type="web" url="file://$PROJECT_DIR$/payment-service" />
+    <file type="web" url="file://$PROJECT_DIR$/shared-service" />
+    <file type="web" url="file://$PROJECT_DIR$/user-service" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/api-gateway" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/api-gateway" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/booking-service" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/booking-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/discover-server" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/discover-server" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/global-error-handler" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/global-error-handler" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/listing-service" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/listing-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/notification-service" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/notification-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/payment-service" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/payment-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/user-service" />
+        <option name="gradleJvm" value="openjdk-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/user-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
