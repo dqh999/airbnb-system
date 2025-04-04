@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/airbnb-system.iml" filepath="$PROJECT_DIR$/.idea/airbnb-system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/global-error-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/global-error-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/listing-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/listing-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/payment-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/payment-service.test.iml" />
     </modules>

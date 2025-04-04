@@ -6,10 +6,15 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.ComponentScans;
 
 @SpringBootApplication
-public class UserServiceApplication {
+@ComponentScan(basePackages = {
+		"com.airbnb.user_service",
+                "com.dqhdev.global_error_handler"
+})
 
-	public static void main(String[] args) {
-		SpringApplication.run(UserServiceApplication.class, args);
-	}
+public class UserServiceApplication {
+    public static void main(String[] args)
+	{
+        SpringApplication.run(UserServiceApplication.class, args);
+    }
 
 }
